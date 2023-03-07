@@ -1,0 +1,17 @@
+{
+  "appTitle": "Todos List",
+
+  "getStarted": "Get started by adding a Todo",
+
+  "filters": {
+    "all": "All",
+    "pending": "Pending",
+    "completed": "Completed"
+  },
+
+  "delete": "delete",
+  "add": "add",
+  "newTodo": "New Todo",
+  "loadSampleTodos": "Load sample Todos",
+  "clearTodos": "Clear Todos"
+}
