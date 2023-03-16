@@ -1,0 +1,18 @@
+{
+    "appTitle": "टू-डूस",
+    
+    "getStarted": "टू-डू जोड़कर शुरू करें",
+    "create": "बनाएं",
+    "task": "काम",
+    "inputPlaceholder": "क्या करना है ?",
+    "filters": {
+    "all": "सभी",
+    "pending": "लंबित",
+    "completed": "पूर्ण"
+    },
+    "my": "मेरे",
+    "add": "जोड़ें",
+    "save": "सहेजें",
+    "counts": "{{count}} टूडो",
+    "counts_plural": "{{count}} टूडो"
+    }

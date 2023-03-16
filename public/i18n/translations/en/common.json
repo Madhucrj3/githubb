@@ -1,17 +1,18 @@
 {
-  "appTitle": "Todos List",
+  "appTitle": "ToDos",
 
   "getStarted": "Get started by adding a Todo",
-
+  "create":"Create",
+  "task":"Task",
+  "inputPlaceholder":"what's need to be done ?",
   "filters": {
     "all": "All",
     "pending": "Pending",
     "completed": "Completed"
   },
-
-  "delete": "delete",
-  "add": "add",
-  "newTodo": "New Todo",
-  "loadSampleTodos": "Load sample Todos",
-  "clearTodos": "Clear Todos"
+  "my":"My",
+  "add": "Add",
+  "save":"Save",
+  "counts": "{{count}} Todo",
+  "counts_plural": "{{count}} ToDos"
 }

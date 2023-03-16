@@ -1,0 +1,12 @@
+{
+    "greeting": "హలో, {{name}}!",
+    "menu": {
+      "home": "హోమ్",
+      "about": "మీముకున్నవి",
+      "contact": "సంప్రదించండి"
+    },
+    "pluralization": {
+      "cat": "{{count}} పిల్లి",
+      "cat_plural": "{{count}} పిల్లిలు"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "greeting": "नमस्ते, {{name}}!",
+    "menu": {
+      "home": "होम",
+      "about": "हमारे बारे में",
+      "contact": "संपर्क करें"
+    },
+    "pluralization": {
+      "cat": "{{count}} बिल्ली",
+      "cat_plural": "{{count}} बिल्लियाँ"
+    }
+}

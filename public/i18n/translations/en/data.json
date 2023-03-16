@@ -1,0 +1,12 @@
+{
+    "greeting": "Hello, {{name}}!",
+    "menu": {
+      "home": "Home",
+      "about": "About",
+      "contact": "Contact"
+    },
+    "pluralization": {
+      "cat": "{{count}} cireat",
+      "cat_plural": "{{count}} cireatreat"
+    }
+}
