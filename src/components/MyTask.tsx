@@ -46,10 +46,7 @@ const MyTask = inject("store")(
     return (
       <TaskMain>
         <TaskHead>
-          {t("my")}{" "}
-          <NormalH>
-            {t("task")} {t("counts", { count: data.length })}
-          </NormalH>
+          {t("my")} <NormalH>{t("task")}</NormalH>
         </TaskHead>
         <h1>{t("data:greeting")}</h1>
         <IndTasDai>
